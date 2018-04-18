@@ -149,7 +149,7 @@ npm run build
 
 ### <a name="standard">⊙ 规范</a>
 > 本示例项目的代码极尽详细地添加了注释，而且遵循eslint规范   
-* eslint规范文档 · [Advanced Performance](http://eslint.cn/docs/user-guide/configuring)  
+* eslint规范文档 · [eslint规范](http://eslint.cn/docs/user-guide/configuring)  
 
 ### <a name="performance">⊙ 性能</a>  
 大概可参阅如下文章：
@@ -157,7 +157,6 @@ npm run build
 * React 文档 · [Advanced Performance](https://facebook.github.io/react/docs/advanced-performance.html)
 * 反鸡汤 · [Should I use shouldComponentUpdate](http://jamesknelson.com/should-i-use-shouldcomponentupdate/)（[译文](http://www.infoq.com/cn/news/2016/07/react-shouldComponentUpdate)）
 * 淘宝 FED · [高性能 React 组件](http://taobaofed.org/blog/2016/08/12/optimized-react-components/)
-* 腾讯 Dev Club · [React 移动 Web 极致优化](http://dev.qq.com/topic/579083d1c9da73584b02587d)
 
 ***
 
