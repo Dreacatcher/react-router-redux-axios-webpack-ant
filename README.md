@@ -34,7 +34,7 @@
 ## <a name="getting-started">&sect; 快速开始</a>
 > 在项目开发前开始前，希望您已通读如下资料
 * [React 文档][react-doc]  
-* [Redux 文档][redux-doc]（看完后懵逼的请转看 [Redux 莞式教程][simple-tutorial]） 
+* [Redux 文档][redux-doc]
 * [React Router 文档][react-router-doc]  
 * 同时您还需要熟悉ES6[ES6](http://es6.ruanyifeng.com/)  
 
