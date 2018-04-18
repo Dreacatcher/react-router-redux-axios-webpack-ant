@@ -1,24 +1,24 @@
 ### 本react框架基于react+router+redux+axios+webpack+ant单页面应用
 
 ## 目录
-#### &sect; [技术栈](#features)
-#### &sect; [快速开始](#getting-started)
+####  [技术栈](#features)
+####  [快速开始](#getting-started)
   * [安装、部署](#installation)
-#### &sect; [项目架构](#architecture)
+####  [项目架构](#architecture)
   * [目录结构](#tree)
   * [特色](#character)
 
-#### &sect; [开发](#development)
+####  [开发](#development)
   * [Webpack 配置](#webpack-configure)
   * [规范](#standard)
   * [性能](#performance)
   
-#### &sect; [测试](#testing)  
-#### &sect; [参考](#reference)
+####  [测试](#testing)  
+####  [参考](#reference)
 
 ****
 
-## <a name="features">&sect; 技术栈</a>
+## <a name="features"> 技术栈</a>
 > 详情可参阅 `package.json` 
 
 * React 15.3.0
@@ -31,7 +31,7 @@
 
 ***
 
-## <a name="getting-started">&sect; 快速开始</a>
+## <a name="getting-started"> 快速开始</a>
 > 在项目开发前开始前，希望您已通读如下资料
 * [React 文档][react-doc]  
 * [Redux 文档][redux-doc]
@@ -74,7 +74,7 @@ npm run build
 > 您可以使用命令行静态资源服务器 [serve](https://github.com/tj/serve) ( `npm i serve -g` )，敲下 `serve dist/ -p [端口]` 来快速查看 build 后的项目  
 ***
 
-## <a name="architecture">&sect; 项目架构</a>
+## <a name="architecture"> 项目架构</a>
 ### <a name="tree">⊙ 目录结构</a>
 ```
 .
@@ -126,7 +126,7 @@ npm run build
 
 ***
 
-## <a name="development">&sect; 开发</a>
+## <a name="development"> 开发</a>
 ### <a name="webpack-configure">⊙ Webpack 配置</a>
 > 由于已经拥有相对成熟的 Webpack 配置，因此在一定程度上您可以不求甚解，但了解其配置会更能把握整体开发    
 
@@ -158,7 +158,7 @@ npm run build
 
 ***
 
-## <a name="testing">&sect; 测试</a>
+## <a name="testing"> 测试</a>
 > 请自行选择测试工具
 
 ***
@@ -168,7 +168,7 @@ npm run build
 
 ***
 
-## <a name="reference">&sect; 参考</a>
+## <a name="reference"> 参考</a>
 * [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
 * [探讨 React 项目目录结构](http://marmelab.com/blog/2015/12/17/react-directory-structure.html)
 
