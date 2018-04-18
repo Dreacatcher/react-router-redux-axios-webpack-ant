@@ -2,11 +2,13 @@
 
 ## 目录
 ####  [技术栈](#features)
+
 ####  [快速开始](#getting-started)
-  * [安装、部署](#installation)
-####  [项目架构](#architecture)
+  * [安装、部署](#installation)  
+
+####  [项目架构](#architecture)  
   * [目录结构](#tree)
-  * [特色](#character)
+  * [特色](#character)   
 
 ####  [开发](#development)
   * [Webpack 配置](#webpack-configure)
@@ -14,6 +16,7 @@
   * [性能](#performance)
   
 ####  [测试](#testing)  
+
 ####  [参考](#reference)
 
 ****
