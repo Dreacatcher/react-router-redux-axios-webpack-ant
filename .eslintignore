@@ -1,0 +1,8 @@
+dist/**
+node_modules/**
+src/assets/**
+src/assets/js/lib/**
+src/app.js
+./src/app.js
+static/**
+build/**
