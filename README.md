@@ -93,7 +93,6 @@ npm run build
 │   │   ├── demo            # 页面木偶组件
 │   │   ├── todo            # 页面木偶组件
 │   │   └── ui              # 项目公用组件
-│   ├── config              # 接口配置和全局变量配置
 │   ├── redux               # Redux 
 │   │   ├── actions         # （ACTION）
 │   │   ├── reducers        # （REDUCER）
@@ -101,6 +100,7 @@ npm run build
 │   ├── routes              # 路由（ROUTE）
 │   │   └── _include        # 页面路由（ROUTE）
 │   ├── services            # 服务（SERVICE，用于统一管理 XHR 请求，这是从 Vue Demo 中直接复制过来的）
+│   ├── config              # 接口配置和全局变量配置
 │   │   └── utils           # 接口工具库（UTIL）
 │   ├── utils               # 组件工具库（UTIL）
 │   │   ├── HoC             # 高阶组件（HOC，全称 Higher Order Component）
@@ -134,7 +134,7 @@ npm run build
 > 由于已经拥有相对成熟的 Webpack 配置，因此在一定程度上您可以不求甚解，但了解其配置会更能把握整体开发    
 
 * 前端开发服务器为 `localhost:9090`，可在 `build/webpack.dev.conf.js` 中找到  
-> 后端 RESTful API 基地址写在了   `src/services/xhr/config.js` 中，请根据实际自行修改
+> 后端 RESTful API 基地址写在了   `src/services/config` 中，请根据实际自行修改
 
 * 框架 / 类库 须分离打包以加快开发时的编译速度并有利于缓存，详见 `build/webpack.base.conf.js` 中的 `vendor`  
 > 实际上该步骤可通过读取 `package.json` 的 `dependencies` 字段实现自动化，但其灵活度不够高，必要性也不大    
