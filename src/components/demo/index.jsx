@@ -5,7 +5,7 @@ export default class LogoutDropdown extends Component {
   }
   render() {
     console.log('__PUBDATAS__')
-    console.log(__PUBDATAS__)
+    console.log(typeof __PUBDATAS__)
     return (
       <div className="demo">
         demo
